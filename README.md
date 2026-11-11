@@ -1,2 +1,2 @@
-# IPC-2026-grupo8
+# analisis-expresion-genica-rnaseq-GRUPO 8/
 Repositorio de IPC del grupo 8
