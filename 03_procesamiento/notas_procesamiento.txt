@@ -1,1 +1,0 @@
-Pendiente: describir normalización en el README
