@@ -1,2 +1,8 @@
-**04_Análisis**
-Comparar expresión entre grupos
+# 04_analisis
+
+Módulo para comparar la expresión entre grupos.
+
+## Contenido
+
+- `comparacion_grupos.py`
+- `expresion_diferencial.py`
