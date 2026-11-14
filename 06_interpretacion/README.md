@@ -9,5 +9,5 @@ Anotar genes e interpretar su funcion biologica.
 
 ## Entrada y salida
 
-- **Entrada:** Resultados de `04_analisis/` y gráficos de `05_visualizacion/`.
-- **Salida:** Anotaciones de los genes de interés y conclusiones del análisis.
+- **Entrada:** resultados de `04_analisis/` y gráficos de `05_visualizacion/`.
+- **Salida:** anotaciones de los genes de interés y conclusiones del análisis.
