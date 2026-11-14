@@ -1,6 +1,6 @@
 # 06_interpretacion
 
-Anotar genes e interpretar su funcion biologica.
+Anotar genes e interpretar su función biologica.
 
 ## Contenido
 
