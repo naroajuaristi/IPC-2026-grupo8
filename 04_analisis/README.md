@@ -4,5 +4,5 @@ Módulo para comparar la expresión entre grupos.
 
 ## Contenido
 
-- `comparacion_grupos.py`
-- `expresion_diferencial.py`
+- `comparacion_grupos.py`: Contenido de ejemplo.
+- `expresion_diferencial.py`: Contenido de ejemplo.
